@@ -12,7 +12,6 @@ This project explores the prediction of flight arrival times into Syracuse (SYR)
 - [Methodology](#methodology)
 - [Exploratory Data Analysis](#exploratory-data-analysis)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
