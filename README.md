@@ -38,11 +38,7 @@ The aviation industry consistently seeks improvements in operational efficiency 
    cd flight-delay-prediction
    ```
 
-2. Install the required dependencies:
-
-   ```bash
-   pip install -r requirements.txt
-   ```
+2. Install the required dependencies.
 
 3. Make sure to set up any required APIs for fetching real-time flight data and weather updates.
 
