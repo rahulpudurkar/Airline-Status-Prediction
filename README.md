@@ -34,7 +34,7 @@ The aviation industry consistently seeks improvements in operational efficiency 
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/rahulpudurkar/flight-delay-prediction.git
+   git clone https://github.com/rahulpudurkar/Airline-Status-Prediction.git
    cd flight-delay-prediction
    ```
 
